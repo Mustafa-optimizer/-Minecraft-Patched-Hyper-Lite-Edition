@@ -1,11 +1,4 @@
-⚡ Minecraft Hyper Lite - The Lightest Optimized Minecraft for Low-End Devices (195MB Only!)
-
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/version-1.0-blue
-https://img.shields.io/badge/size-195MB-brightgreen
-https://img.shields.io/badge/platform-Android-lightgrey
-https://img.shields.io/badge/downloads-1k+-orange
-https://img.shields.io/badge/APK-Modifiable-blueviolet
+⚡ Minecraft Hyper Lite - The Lightest Optimized Minecraft for Low-End Devices (200MB Only!)
 
 ---
 
@@ -33,6 +26,7 @@ I stripped away everything unnecessary while keeping the complete gameplay exper
 ✅ Anyone who wants a smooth Minecraft experience
 ✅ Modders who want a lightweight base for their own modifications
 ✅ Gamers in developing countries with older devices
+
 🔧 What Was Removed? (The Optimization Details)
 
 🗑️ Completely Removed:
@@ -43,7 +37,6 @@ I stripped away everything unnecessary while keeping the complete gameplay exper
 · 📚 All tutorials, help sections, and tips (no one reads them anyway)
 · ✒️ Smooth font (saves ~1MB, default font works fine)
 · 🔊 80% of mob sounds (kept only essential sounds for gameplay)
-· 🎨 Most mob skins/textures (mobs appear black/purple - fully functional!)
 · 🖼️ Unnecessary UI elements and images
 
 🎨 Optimized/Reduced:
@@ -107,6 +100,7 @@ That's it! Share, modify, improve - this project is for everyone. ❤️
 Q: Is this safe? Any viruses?
 
 A: 100% safe! No viruses, no malware, no ads. The project is transparent and you can inspect the APK with any tool. I hate ads and malware as much as you do.
+
 Q: Can I play online / multiplayer?
 
 A: Yes! Multiplayer works exactly like the original. Join servers, play with friends, everything works.
@@ -163,7 +157,7 @@ In simple terms:
 If this project helped you, please share it with others who might need it:
 
 · Reddit: r/lowendgaming, r/Minecraft, r/androidapps, r/AndroidGaming
-· Twitter/X: Use hashtags #Minecraft #LowEndGaming #Optimization #195MB
+· Twitter/X: Use hashtags #Minecraft #LowEndGaming #Optimization #200MB
 · Discord: Share in Minecraft servers and communities
 · YouTube: Tag YouTubers who review Minecraft mods
 · Telegram: Share in tech/gaming groups
