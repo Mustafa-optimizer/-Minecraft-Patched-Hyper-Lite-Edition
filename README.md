@@ -11,6 +11,7 @@ Like many of you, I struggled with:
 · A low-end phone that couldn't run Minecraft properly
 · Limited storage space (always fighting with "storage full" messages)
 The result?
+
 A Minecraft modification that went from 330MB to just 200MB, running at 40-50 FPS on the weakest processors.
 🎯 What Is Minecraft Hyper Lite?
 
