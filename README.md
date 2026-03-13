@@ -51,8 +51,7 @@ I stripped away everything unnecessary while keeping the complete gameplay exper
 · ✅ Multiplayer support
 · ✅ Core Minecraft experience
 ⚡ Performance Tests (Real Results)
-
-Test Device: MediaTek Helio G25 (One of the weakest processors available)
+Test Device: MediaTek Helio G25 On the weakest settings for Minecraft (One of the weakest processors available)
 
 Test Result
 Average FPS 40-50 FPS (stable)
