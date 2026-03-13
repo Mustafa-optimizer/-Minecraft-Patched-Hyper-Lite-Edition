@@ -126,6 +126,10 @@ Q: Will there be updates?
 
 A: Yes! I'm constantly working on improvements
 
+Q:Which version of Minecraft is the project based on?
+
+A:Minecraft 1.26.3(Latest version)
+
 ---
 
 🤝 Credits & Respect
@@ -179,4 +183,4 @@ If you appreciate this work:
 
 ---
 
-Version 1.0 | 200MB | 40-50 FPS | Android 8.0+ | MIT License
+Version 1.26.3 | 200MB | 40-50 FPS | Android 8.0+ | MIT License
